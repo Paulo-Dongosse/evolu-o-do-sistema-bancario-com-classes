@@ -37,7 +37,7 @@ class Conta:
     
     def depositar(self, valor):
         if valor < 0:
-            print("valor Ivalido pra o Desposito")
+            print("valor Ivalido pra o Desposito: ")
             return False
         self.saldo += valor
         self.historico.adicionar_transacao(Deposito(valor))
