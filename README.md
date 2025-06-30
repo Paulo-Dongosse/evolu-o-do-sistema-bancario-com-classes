@@ -1,4 +1,4 @@
-## 🏦 Sistema Bancário em Python
+## 🏦 Sistema Bancário usando POO em Python
 
 Simulação de um sistema bancário simples usando Python projeto dado pela __DIO__ em Programação Orientada a Objetos (__POO__).
 
